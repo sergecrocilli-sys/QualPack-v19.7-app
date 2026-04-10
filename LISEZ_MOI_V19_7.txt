@@ -1,0 +1,8 @@
+V19.7
+- Import Excel propre avec mise à jour des produits existants
+- Suppression des doublons produits lors de l'import (même client + même nom)
+- Lecture de la feuille LIGNES pour alimenter un vrai référentiel de lignes
+- Tentative d'upsert vers la table Supabase lignes (fallback local si table absente)
+- Menus de lignes fiabilisés dans PESEES et DETECTEUR
+- Préremplissage détecteur selon la ligne conservé
+- Cache PWA incrémenté en V19.7

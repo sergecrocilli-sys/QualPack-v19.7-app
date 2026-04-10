@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#0D1B2A"/>
+  <rect x="0" y="406" width="512" height="16" fill="#2E7DD1"/>
+  <text x="256" y="307" font-family="Arial" font-size="240" font-weight="bold" fill="#E8EDF3" text-anchor="middle">Q</text>
+  <text x="256" y="390" font-family="Arial" font-size="48" font-weight="bold" fill="#2E7DD1" text-anchor="middle">QUALPACK</text>
+</svg>
